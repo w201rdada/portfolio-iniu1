@@ -1,8 +1,8 @@
-# The Strategy Machine {#auto-strategy}
+# The Strategy Machine {#strategymachine}
 
 #### Keywords
 
-business strategy, artificial intelligence, automation, consumer packaged goods
+business strategy, automation, consumer packaged goods, artificial intelligence, natural language processing, visualization
 
 ## Better strategies lead to better results
 
@@ -26,7 +26,7 @@ Example methodologies include the use of natural language proceessing technology
 
 ## The Future: Human-Machine Strategists
 
-The strategy machine has completely transformed how CPG companies develop and implement business strategy. What used to be a time consuming and human-resource intensive strategy development process, often delgated to a separate strategy function or outsourced to management consultants, has evolved into a critical must-build skill set for all organizations. Every decision maker will be trained on developing human-machine strategic capabilities, marrying human instints and expertise with AI-powered self-learning strategy machines to drive better decisions and results. 
+The strategy machine has completely transformed how CPG companies develop and implement business strategy. What used to be a time consuming and human-resource intensive strategy development process, often delgated to a separate strategy function or outsourced to management consultants, has evolved into a critical must-build skill set for all organizations. Decision-makers across CPG companies will be trained on human-machine strategic capabilities, marrying human instints and expertise with AI-powered self-learning strategy machines to drive better decisions and results. Lean CPG companies no longer have to trade-off between robust strategy development and limited human resources.
 
 
 ***Resources:***
