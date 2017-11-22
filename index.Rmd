@@ -10,7 +10,7 @@ documentclass: book
 ```{r init,include=FALSE,echo=FALSE}
 library(magrittr)
 ```
-
+[![Binder](http://hub.w201rdada.org/badge.svg)](http://hub.w201rdada.org/v2/gh/w201rdada/portfolio-iniu1/master?urlpath=rstudio)
 
 # Welcome!
 
