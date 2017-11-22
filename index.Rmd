@@ -25,8 +25,7 @@ knitr::include_url('https://drive.google.com/file/d/0B04YO6xwC5IgdHFhUzM0TTRuZVU
 
 ### Abstract #1: InstaFashion
 
-Social media has birthed a new generation of hyper-fashion-conscious consumers who have replaced fashion brands with influencers and magazines with Instagram as their source of inspiration. The problem facing this new generation of "see now, buy now" consumers is that the online path-to-purchase for fashion remains too brand-centric and does not integrate well with a influencer-centric discovery-led shopping experience.
-InstaFashion is a discovery-led fashion e-commerce experience that enabled consumers to effortlessly shop the exact look from their favourite influencer's social feeds while receiving personalised recommendations for similar styles and/or lower-priced alternatives. Through the use of big data, machine learning and predictive analytics, InstaFashion significantly shortens the online fashion path-to-purchase for today’s millennial and gen-Z fashionistas.
+Social media has birthed a new generation of hyper-fashion-conscious consumers who have replaced fashion brands with influencers and magazines with Instagram as their source of inspiration. The problem facing this new generation of "see now, buy now" consumers is that the online path-to-purchase for fashion remains too brand-centric and does not integrate well with a influencer-centric discovery-led shopping experience. InstaFashion is a discovery-led fashion e-commerce experience that enabled consumers to effortlessly shop the exact look from their favourite influencer's social feeds while receiving personalised recommendations for similar styles and/or lower-priced alternatives. Through the use of big data, machine learning and predictive analytics, InstaFashion significantly shortens the online fashion path-to-purchase for today’s millennial and gen-Z fashionistas.
 
 
 ### Abstract #2: The Strategy Machine
