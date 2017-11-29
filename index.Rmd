@@ -12,7 +12,7 @@ library(magrittr)
 ```
 [![Binder](http://hub.w201rdada.org/badge.svg)](http://hub.w201rdada.org/v2/gh/w201rdada/portfolio-iniu1/master?urlpath=rstudio)
 
-# Welcome!
+# Welcome! {-}
 
 
 My portfolio includes two ideas with vastly different applications and industries. InstaFashion explores opportunities to transform and disrupt the online fashion shopping experience, while The Strategy Machine aims to automate the strategy development process in companies.  I hope you enjoy reading more about my ideas and I welcome any feedback or opportunity to discuss these ideas further!
@@ -33,7 +33,7 @@ Social media has birthed a new generation of hyper-fashion-conscious consumers w
 The strategy development process in consumer packaged goods (CPG) companies tend to follow a standardized framework with a set of key questions around where to play, how to win, and cost to play. With advances in big data processing and machine intelligence, automating parts of the strategy development process could create significant competitive advantage for lean CPG companies. We will pilot our efforts on a specific use-case strategy machine to aid in a company’s emerging markets strategy process by leveraging natural language processing, data integration, and predictive analytics technologies to mine and integrate rich sources of public data, extracting insights to provide a summary "strategy on-a-page" output for executives. The strategy machine has the potential to automate roughly half of standard strategy tasks resulting in significantly reduced cycle times and resource requirements. By marrying human instincts and expertise with AI-powered self-learning strategy machines, CPG companies will no longer have to trade-off between robust strategy development and limited human resources, which should ultimately drive towards better decisions and results.
 
   
-## About the author
+## About the author {-}
 
 I-Wae Niu is a senior consumer packaged goods (CPG) executive with 15+ years global experience with companies such as Procter & Gamble, Johnson & Johnson, and Mondelez International. In recent years, I-Wae has led Mondelez International's Eastern Europe Middle East and Africa Strategy, Pricing and Growth Analytics function and has been a strong advocate of leveraging data and technology to transform decision making. From 2001 to 2005, I-Wae also worked in Beijing China as Marketing Director for a top fashion retail group and is fascinated by the role fashion and technology plays in emerging markets. I-Wae is currently enrolled in UC Berkeley's Master of Information and Data Science program and hopes to transition her experience into new and exciting areas in this burgeoning field. 
 

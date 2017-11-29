@@ -1,16 +1,16 @@
 # InstaFashion: See now, buy now! {#InstaFashion}
 
-#### Keywords
+#### Keywords {-}
 
 fashion, social media, instagram, influencers, e-commerce, shoppable imagery, visual search, natural language processing, machine learning
 
-## Meet the new trendsetters
+## Meet the new trendsetters {-}
 
 Social media has birthed a new generation of hyper-fashion-conscious consumers who are are less brand-obsessed and prefer to follow fashion influencers i.e., bloggers and social stars for their latest trends. Instagram, by far the top social platform for fashion aficionados, has in many respects replaced magazines as a source of inspiration for millions of fashionistas around the world. The problem facing this new generation of "see now, buy now" consumers is that the online path-to-purchase for fashion remains too brand-centric and does not integrate well with a influencer-centric discovery-led shopping experience.
 
 Going directly from their social feeds to shopping that "must-have look" still requires a few extra steps (and frustration!) such as researching product details (Instagram limits affiliate marketing), visiting separate brand/retailer websites to compile the look, and a limited ability to price compare. Now imagine a discovery-led fashion e-commerce experience that enabled consumers to effortlessly shop the exact look from their favourite influencer's social feeds while receiving personalised recommendations for similar styles and/or lower-priced alternatives. The potential for transformation and disruption of the online fashion shopping experience is huge and has only just begun!
 
-## Bridging the gap from discovery to purchase
+## Bridging the gap from discovery to purchase {-}
 
 InstaFashion is an influencer-centric, shoppable fashion e-commerce platform that seamlessly integrates the process of discovery with a consumer's online path-to-purchase. Consumers will be able to navigate from their social feeds to product information pages with "buy now" options for featured items, as well as receive recommendations for similar styles and/or lower-price alternatives. To satisfy our fashionista’s love for discovery, feeds and alerts will keep our users informed and up-to-date on top fashion influencers, designer news and emerging fashion trends, curated based on each user's personalized profile and style preferences.
 
@@ -18,6 +18,6 @@ By leveraging image recognition, natural language processing and machine learnin
 
 InstaFashion is designed as a mobile-first Instagram partner app (such as [Like2Buy](https://www.curalate.com/blog/like2buy-drive-traffic-and-revenue-from-instagram/)) that aims to further connect influencers and their followers via a brand-agnostic e-commerce platform. Fashion influencers are able to better monetize their social media feeds by adding an InstaFashion link in their profile converting their Instagram posts into a shoppable gallery. By clicking on this single link, consumers are taken to a gallery of their influencer's instagram photos and videos (now with shoppable product tags) where they can continue browsing, price compare and/or complete their purchases. Although there are several similar solutions such Like2Buy and Shopify, they are mostly designed for brands/retailers/businesses rather than for influencers.
 
-## Staying on-trend
+## Staying on-trend {-}
 
 Through the use of big data, machine learning and predictive analytics, InstaFashion significantly shortens the online fashion path-to-purchase for today’s millennial and gen-Z fashionistas. Some of the potential challenges InstaFashion faces include: high acquisition costs of influencers to get to critical mass, competition from B2B sites such as Like2Buy, Instagram as they continue to monetize their offerings with shoppable tags and buy buttons, and Amazon who has recently announced a strategic push into fashion. By focusing on a single vertical (fashion) and targeted consumer/stakeholder space (highly fashion conscious millennial/gen-Z and their influencers), InstaFashion has the potential to compete against bigger but more generalized platforms who are likely unable to replicate the same immersive shopping experience optimized for today's fashionistas. 

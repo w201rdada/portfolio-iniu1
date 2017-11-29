@@ -1,16 +1,16 @@
 # The Strategy Machine {#strategymachine}
 
-#### Keywords
+#### Keywords {-}
 
 business strategy, automation, consumer packaged goods, artificial intelligence, natural language processing, visualization
 
-## Better strategies lead to better results
+## Better strategies lead to better results {-}
 
 Despite the wide acknowledgement and growing interest in the value of data and analytics, the consumer packaged goods industry (CPG) still lags other data-driven sectors when it comes to big data implementation and adopting real-time, predictive and prescriptive analytics especially in the strategy development process. Recent focus on relentless cost-cutting has forced CPG companies to reduce headcount while relying on leaner teams to drive higher growth. Teams no longer have the time, resources, nor skills to formulate robust business strategies, leading to low performance and further cost cutting. 
 
 The strategy development process in CPG companies often follow a standardized framework with a set of key questions around where to play (market/segment attractiveness), how to win (company/product's right to win), and cost to play (business case). With advances in big data processing and machine intelligence, automating parts of the strategy development process could create significant competitive advantage for lean CPG companies by enhancing their ability to develop better strategies which could lead to better results. 
 
-## Automating the strategy process
+## Automating the strategy process {-}
 
 The strategy machine aims to automate specific tasks (marked by * below) within each of the key phases of a typical strategy development process: 
 
@@ -36,7 +36,7 @@ The strategy machine aims to automate specific tasks (marked by * below) within 
 Let's look at a more specific use-case of developing a strategy machine for a company or brand's emerging markets strategy process. By leveraging natural language processing technology, the strategy machine is able to mine vast troves of publicly available relevant emerging market reports and articles. Advanced data integration techniques can then be used to build a proprietary database integrating rich data sources such as The World Bank's Global Consumption database, Economist Intelligence Unit's Country database, Euromonitor's Global Market Research database, and Mintel's Innovation Trends & Insights database (all publicly available or via ischool library access). Finally, through advanced data and predictive analytics, the strategy machine can extract topline analysis and insights around emerging market attractiveness, size-of-prize estimates, country/segment opportunity ranking, competitive insights, and summarize key recommendations for strategy development onto a "strategy on-a-page" output for executives. This live output can then be used to inform phases 2 & 3 and act as a basis for iteration to refine the business team's assumptions.
 
 
-## The Future: Human-Machine Strategists
+## The Future: Human-Machine Strategists {-}
 
 The strategy machine has the potential to automate roughly half of standard strategy tasks resulting in significantly reduced cycle times and resource requirements. What used to be a time consuming and human-resource intensive strategy development process, often delgated to a separate strategy function or outsourced to costly management consultants, will evolve into a critical human-machine integrated process marrying human instincts and expertise with AI-powered self-learning strategy machines. 
 
