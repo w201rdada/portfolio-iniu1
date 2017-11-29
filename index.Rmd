@@ -19,16 +19,16 @@ My portfolio includes two ideas with vastly different applications and industrie
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B04YO6xwC5IgdHFhUzM0TTRuZVU/preview')
+```{r pitch,echo=FALSE,fig.cap='Pitch!',fig.align='center'}
+knitr::include_url('https://drive.google.com/file/d/1MDtaw6yH8PQFzjPS__zLPLssG6ZTDcFe/preview')
 ```
 
-### Abstract #1: InstaFashion
+### InstaFashion: See now, buy now!
 
-Social media has birthed a new generation of hyper-fashion-conscious consumers who have replaced fashion brands with influencers and magazines with Instagram as their source of inspiration. The problem facing this new generation of "see now, buy now" consumers is that the online path-to-purchase for fashion remains too brand-centric and does not integrate well with a influencer-centric discovery-led shopping experience. InstaFashion is a discovery-led fashion e-commerce experience that enabled consumers to effortlessly shop the exact look from their favourite influencer's social feeds while receiving personalised recommendations for similar styles and/or lower-priced alternatives. Through the use of big data, machine learning and predictive analytics, InstaFashion significantly shortens the online fashion path-to-purchase for today’s millennial and gen-Z fashionistas.
+Social media has birthed a new generation of hyper-fashion-conscious consumers who have replaced fashion brands with influencers and magazines with Instagram as their source of inspiration. The problem facing this new generation of "see now, buy now" consumers is that the online path-to-purchase for fashion remains too brand-centric and does not integrate well with a influencer-centric discovery-led shopping experience. InstaFashion is a discovery-led fashion e-commerce experience that enables consumers to effortlessly shop the exact look from their favourite influencer's social feeds while receiving personalised recommendations for similar styles and/or lower-priced alternatives. Through the use of big data, machine learning and predictive analytics, InstaFashion significantly shortens the online fashion path-to-purchase for today’s millennial and gen-Z fashionistas.
 
 
-### Abstract #2: The Strategy Machine
+### The Strategy Machine
 
 The strategy development process in consumer packaged goods (CPG) companies tend to follow a standardized framework with a set of key questions around where to play, how to win, and cost to play. With advances in big data processing and machine intelligence, automating parts of the strategy development process could create significant competitive advantage for lean CPG companies. We will pilot our efforts on a specific use-case strategy machine to aid in a company’s emerging markets strategy process by leveraging natural language processing, data integration, and predictive analytics technologies to mine and integrate rich sources of public data, extracting insights to provide a summary "strategy on-a-page" output for executives. The strategy machine has the potential to automate roughly half of standard strategy tasks resulting in significantly reduced cycle times and resource requirements. By marrying human instincts and expertise with AI-powered self-learning strategy machines, CPG companies will no longer have to trade-off between robust strategy development and limited human resources, which should ultimately drive towards better decisions and results.
 
